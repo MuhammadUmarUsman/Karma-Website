@@ -25,7 +25,7 @@ The website includes various sections such as:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/seo-karma.git
+git clone https://github.com/MuhammadUmarUsman/Karma-Website
 
 2. Open the `index.html` file in your preferred web browser to view the website.
 
